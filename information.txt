@@ -1,0 +1,20 @@
+SERIAL: unknown
+MODEL: Android SDK built for x86
+ID: RSR1.210210.001.A1
+Manufacture: unknown
+brand: Android
+type: userdebug
+user: android-build
+BASE: 1
+INCREMENTAL 7193139
+SDK  30
+BOARD: goldfish_x86
+BRAND Android
+HOST abfarm-east4-071
+FINGERPRINT: Android/sdk_phone_x86/generic_x86:11/RSR1.210210.001.A1/7193139:userdebug/dev-keys
+Version Code: 11
+google user: dviravr@gmail.com
+location: lat: 37.421998333333335, lon: -122.084
+contacts: 
+         name: Dvir, phone number: 0500000000
+         name: John Doe, phone number: 0522222222
